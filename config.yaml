@@ -1,0 +1,6 @@
+# Environment variables override these: CHESSGPT_MODEL, CHESSGPT_TEMPERATURE,
+# CHESSGPT_MAX_TOKENS, CHESSGPT_MAX_STEPS.
+model: mistral
+temperature: 0.2
+max_tokens: 200
+max_steps: 4
