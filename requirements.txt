@@ -1,4 +1,4 @@
 chess==1.11.2
-ollama==0.6.0
+ollama==0.6.3
 PyYAML==6.0.3
 pytest==8.4.2
